@@ -1,0 +1,5 @@
+# No external libraries are required.
+
+Python >= 3.8
+
+
