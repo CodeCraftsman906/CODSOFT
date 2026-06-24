@@ -33,14 +33,17 @@ The recommendation engine uses Natural Language Processing (NLP), Count Vectoriz
 
 ## 📂 Dataset
 
-TMDB 5000 Movie Dataset
+## Dataset
 
-Files Used:
+The TMDB dataset is not included in this repository due to file size limitations.
 
-* tmdb_5000_movies.csv
-* tmdb_5000_credits.csv
+Required files:
 
-The dataset contains metadata for approximately 5000 movies.
+- tmdb_5000_movies.csv
+- tmdb_5000_credits.csv
+
+LINK TO THE FILES:
+(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 ---
 
